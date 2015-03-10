@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">@android:color/white</color>
+    <color name="gray">#828282</color>
+    <color name="item_home_stroke">#33000000</color>
+    <color name="home_logo">#ace7ca</color>
+    <color name="home_item_press">#5f76ac</color>
+    <color name="home_item_unpress">#0f76ac</color>
+</resources>

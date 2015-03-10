@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- home page -->
+    <dimen name="item_main_width">100dp</dimen>
+    <dimen name="item_main_height">60dp</dimen>
+    <dimen name="item_home_vertical_spacing">12dp</dimen>
+    <dimen name="item_home_horizontal_spacing">7dp</dimen>
+    <dimen name="item_home_item_padding">10dp</dimen>
+
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+
+</resources>

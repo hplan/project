@@ -1,0 +1,9 @@
+<home>
+    <item name="A" src="ic_launcher" order="1"/>
+    <item name="B" src="ic_launcher" order="2"/>
+    <item name="C" src="ic_launcher" order="3"/>
+    <item name="D" src="ic_launcher" order="4"/>
+    <item name="E" src="ic_launcher" order="5"/>
+    <item name="F" src="ic_launcher" order="6"/>
+    <item name="G" src="ic_launcher" order="7"/>
+</home>
